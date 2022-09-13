@@ -28,8 +28,8 @@ ________________________________________________________________________________
 ## Business
 
 | usage | permission |
-----------|--------------------|
-|Learing  :white_check_mark: |
+---------- | --------------------|
+| Learing | :white_check_mark: |
 | sharing secret permission  | ✅                |
 | see how morse-code looks like   | :white_check_mark: |
 | coding in morse-code   | ✅               |
